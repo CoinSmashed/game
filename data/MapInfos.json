@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":540.6666666666666,"scrollY":302},
+{"id":2,"expanded":false,"name":"Swamp","order":2,"parentId":0,"scrollX":1081.3333333333333,"scrollY":943.3333333333334},
+{"id":3,"expanded":true,"name":"Inside","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":false,"name":"Market","order":4,"parentId":3,"scrollX":659.3333333333334,"scrollY":586.6666666666666}
+]
